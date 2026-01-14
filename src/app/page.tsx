@@ -93,7 +93,7 @@ export default function Home() {
         </div>
 
         {/* Main Call to Action Card */}
-        <Card className="bg-linear-to-br from-white/10 to-white/5 border-white/20 backdrop-blur-md mb-8">
+        <Card className="bg-slate-800/40 border-white/20 backdrop-blur-md mb-8">
           <CardHeader className="text-center">
             <CardTitle className="text-2xl sm:text-3xl text-white mb-2">
               Junte-se à Nossa Causa
